@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This to demonstrate conflict while doing git pull.locally
+=======
+This to demonstrate conflict while doing git pull.remotely
+>>>>>>> e42f127d105429c6a8bbd4a90dbb27ce7a1abc69
